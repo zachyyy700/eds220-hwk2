@@ -1,0 +1,6 @@
+State Name,county Name,State Code,County Code,Date,AQI,Category,Defining Parameter,Defining Site,Number of Sites Reporting
+Alabama,Baldwin,1,3,2018-01-02,42,Good,PM2.5,01-003-0010,1
+Alabama,Baldwin,1,3,2018-01-05,45,Good,PM2.5,01-003-0010,1
+Alabama,Baldwin,1,3,2018-01-08,20,Good,PM2.5,01-003-0010,1
+Alabama,Baldwin,1,3,2018-01-11,25,Good,PM2.5,01-003-0010,1
+Alabama,Baldwin,1,3,2018-01-14,33,Good,PM2.5,01-003-0010,1
